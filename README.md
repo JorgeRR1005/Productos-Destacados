@@ -6,7 +6,6 @@ Características
 
 - Diseño moderno con tonos oscuros.
 - Sección de productos destacados.
-- Organización de contenido con Flexbox.
 - Navegación sencilla e intuitiva.
 - Secciones informativas: Inicio y Contacto.
 
